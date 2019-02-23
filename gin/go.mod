@@ -1,4 +1,4 @@
-module github.com/jaeyeonling/study/go/library/gin
+module github.com/guro-golang-study-group/http-library-research/gin
 
 require (
 	github.com/gin-contrib/sse v0.0.0-20190125020943-a7658810eb74 // indirect
